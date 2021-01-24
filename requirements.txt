@@ -3,3 +3,4 @@ click
 peewee
 mutagen
 pillow
+peewee-db-evolve
